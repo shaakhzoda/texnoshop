@@ -1,0 +1,281 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: rgb(255, 255, 255);
+}
+
+.header {
+  height: 80px;
+  background-color: rgb(35, 120, 248);
+  width: 100%;
+}
+
+/*.here {
+  margin-left: 500px;
+  bottom: 90px;
+
+  position: relative;
+  border-radius: 30px;
+  background-color: rgb(0, 0, 0);
+  border: 0 solid black;
+  width: 450px;
+  height: 50px;
+}*/
+
+h3 {
+  font-family: sans-serif;
+  color: rgb(155, 148, 148);
+  margin-right: 311px;
+  bottom: 5px;
+  position: relative;
+}
+
+.img {
+  width: 28px;
+  height: 27px;
+  margin-top: 17px;
+  border-radius: 40%;
+  padding: 10px;
+  margin-left: 160px;
+}
+
+.h2 {
+  margin-left: 200px;
+  bottom: 45px;
+  position: relative;
+  color: white;
+
+}
+
+.clear {
+  clear: both;
+}
+
+.sarlavha {
+  text-align: center;
+  font-size: 35px;
+  margin: 15px 0;
+  /* top: 5px;
+  position: relative;*/
+}
+
+.sarlavha span {
+  color: rgb(53, 53, 243);
+  font-family: sans-serif;
+  margin: 15px;
+  /* top: 2px;
+  position: relative;*/
+}
+
+/*----------------------------------------------------------------------------------------------------------------------------------------*/
+/*.cat-image {
+  margin: 50px 0;
+}*/
+
+.bolim .box {
+  width: 10%;
+  padding: 10px;
+  margin: 20px 15px;
+  border: 1px solid #000;
+  border-radius: 5px;
+
+  box-sizing: border-box;
+  box-shadow: 2px 3px 5px #555;
+  float: left;
+  top: 15px;
+  left: 100px;
+  position: relative;
+}
+
+.box img {
+  width: 80%;
+  margin: 0 auto;
+
+}
+
+.clear {
+  clear: both;
+}
+
+.head {
+  text-align: center;
+  margin-top: 55px;
+  font-size: 35px;
+}
+
+.head span {
+  color: rgb(1, 78, 194);
+}
+
+.category .box {
+  width: 350px;
+  padding: 10px 10px 30px 10px;
+  margin: 10px 10px;
+  text-align: center;
+  border: 1px solid #000;
+  border-radius: 5px;
+  left: 50px;
+  position: relative;
+  float: left;
+  box-shadow: 2px 3px 5px #555;
+}
+
+.box img {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.box-text {
+  margin-bottom: 15px;
+  font-weight: bold;
+}
+
+.box-text span {
+  color: rgb(53, 53, 243);
+  font-size: 20px;
+  position: relative;
+}
+
+.large-2 {
+  margin: 0 12px;
+}
+
+.clear {
+  clear: both;
+}
+
+.bob {
+  top: 15%;
+  left: 45px;
+  position: relative;
+}
+
+.product-1 img {
+  width: 80%;
+  border: 1px solid #000;
+  border-radius: 5px;
+  box-shadow: 2px 3px 6px #555;
+}
+
+.product-1 {
+  width: 50%;
+}
+
+.box-pag span {
+  color: rgb(53, 53, 243);
+  font-size: 13px;
+}
+
+.box-pag {
+  line-height: 35px;
+  margin: -180px 0 120px 30px;
+  font-size: 18px;
+}
+
+.box-pag button {
+  width: 100px;
+  height: 40px;
+  border-radius: 10px;
+  border-color: blue;
+  background-color: blue;
+  color: white;
+}
+
+
+.box-pag button {
+  cursor: pointer;
+}
+
+.product-2 img {
+  width: 80%;
+  border: 1px solid #000;
+  border-radius: 5px;
+  box-shadow: 2px 3px 6px #555;
+
+}
+
+.product-2 {
+  width: 50%;
+  left: 560px;
+  bottom: 313px;
+  position: relative;
+}
+
+.box-pag span {
+  color: rgb(53, 53, 243);
+}
+
+.box-pag {
+  line-height: 25px;
+  margin: -180px 0 120px 30px;
+}
+
+.box-pag button {
+  width: 100px;
+  height: 40px;
+  border-radius: 10px;
+  border-color: blue;
+  background-color: blue;
+  color: white;
+}
+
+
+.box-pag button {
+  cursor: pointer;
+}
+
+footer {
+  width: 100%;
+  background-color: rgb(85, 80, 80);
+  height: 90px;
+  bottom: 270px;
+  position: relative;
+  right: 50px;
+
+}
+
+.footer a {
+  text-decoration: none;
+  left: 550px;
+  bottom: 70px;
+  position: relative;
+  font-size: 19px;
+  color: white;
+  margin: 12px;
+  font-family: sans-serif;
+}
+
+.footer a:hover {
+  color: rgb(35, 120, 248);
+}
+
+.last p {
+  display: inline-block;
+  margin: 2px 250px;
+  font-size: 20px;
+  font-family: sans-serif;
+  color: rgb(148, 142, 142);
+  bottom: 15px;
+  position: relative;
+}
+
+.last span {
+  color: rgb(65, 128, 221);
+  margin: 10px;
+
+}
+
+.last img {
+  display: inline-block;
+  bottom: 10px;
+  position: relative;
+}
+
+.link {
+  right: 100px;
+  position: relative;
+}

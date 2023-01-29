@@ -1,0 +1,180 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+
+body {
+  background-color: lightgrey;
+}
+
+.header {
+  height: 100px;
+  background-color: rgb(35, 120, 248);
+  width: 100%;
+}
+
+.here {
+  bottom: 170px;
+  left: 68px;
+  position: relative;
+  border-radius: 30px;
+  background-color: rgb(0, 0, 0);
+  border: 0 solid black;
+  width: 450px;
+  height: 50px;
+}
+
+h3 {
+  font-family: sans-serif;
+  color: rgb(155, 148, 148);
+  margin-right: 311px;
+  bottom: 5px;
+  position: relative;
+}
+
+.img {
+  /* width: 28px;*/
+  height: 27px;
+
+  border-radius: 40%;
+  padding: 10px;
+  margin-left: 80px;
+}
+
+.h2 {
+  margin-left: 90px;
+  bottom: 85px;
+  position: relative;
+  color: white;
+
+}
+
+form {
+  width: 350px;
+  height: 400px;
+  background-color: white;
+  border: 1px solid black;
+  margin: 65px 500px;
+}
+
+form h2 {
+  margin: 17px 18px;
+}
+
+form input {
+  width: 300px;
+  height: 20px;
+  margin: 10px 10px;
+  padding: 10px;
+  background-color: black;
+  color: white;
+}
+
+.chek {
+  right: 140px;
+  position: relative;
+}
+
+.me {
+  bottom: 30px;
+  left: 40px;
+  position: relative;
+}
+
+form button {
+  width: 300px;
+  padding: 13px;
+  border: 1px solid rgb(64, 64, 233);
+  margin: 0 13px;
+  background-color: rgb(64, 64, 233);
+  color: white;
+}
+
+form button:hover {
+  background-color: blue;
+  border: 1px solid blue;
+}
+
+form p {
+  margin: 20px 75px;
+}
+
+.href {
+  /* width: 80%;*/
+  padding: 13px;
+  margin: 0 13px;
+  background-color: rgb(53, 48, 48);
+  text-align: center;
+}
+
+.href:hover {
+  background-color: black;
+}
+
+footer {
+  width: 100%;
+  background-color: rgb(85, 80, 80);
+  height: 90px;
+  margin-top: 50px;
+  /* right: 150px;*/
+
+}
+
+.h2 {
+  color: white;
+  left: 55px;
+  bottom: 40px;
+  position: relative;
+}
+
+.img {
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  left: 10px;
+  top: 15px;
+  position: relative;
+}
+
+.footer a {
+  text-decoration: none;
+  left: 550px;
+  bottom: 80px;
+  position: relative;
+  font-size: 19px;
+  color: white;
+  margin: 12px;
+  font-family: sans-serif;
+}
+
+.footer a:hover {
+  color: rgb(35, 120, 248);
+}
+
+.last p {
+  display: inline-block;
+  margin: 2px 250px;
+  font-size: 20px;
+  font-family: sans-serif;
+  color: rgb(148, 142, 142);
+  bottom: 35px;
+  position: relative;
+}
+
+.last span {
+  color: rgb(65, 128, 221);
+  margin: 10px;
+
+}
+
+.last img {
+  display: inline-block;
+  bottom: 30px;
+  position: relative;
+}
+
+.link {
+  right: 100px;
+  position: relative;
+}

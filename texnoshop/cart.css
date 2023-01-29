@@ -1,0 +1,188 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.clear {
+  clear: both;
+}
+
+.header {
+  height: 80px;
+  background-color: rgb(35, 120, 248);
+  width: 100%;
+}
+
+.here {
+  margin-left: 500px;
+  bottom: 88px;
+  left: 65px;
+  position: relative;
+  border-radius: 30px;
+  background-color: rgb(0, 0, 0);
+  border: 0 solid black;
+  width: 450px;
+  height: 50px;
+}
+
+h3 {
+  font-family: sans-serif;
+  color: rgb(117, 111, 111);
+  margin-right: 311px;
+}
+
+.h2 {
+  margin-left: 250px;
+  bottom: 44px;
+  position: relative;
+  color: white;
+}
+
+.img {
+  width: 28px;
+  height: 27px;
+  margin-top: 17px;
+  border-radius: 20%;
+  padding: 10px;
+  margin-left: 215px;
+}
+
+.sarlavha {
+  text-align: center;
+  font-size: 45px;
+  margin: 15px 500px;
+  top: 5px;
+  position: relative;
+}
+
+.sarlavha span {
+  color: rgb(53, 53, 243);
+  font-family: sans-serif;
+  margin: 15px;
+  top: 2px;
+  position: relative;
+}
+
+.product {
+  width: 30%;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 15px 15px;
+  box-shadow: 2px 3px 6px #555;
+  float: left;
+}
+
+.product img {
+  width: 20%;
+}
+
+.right {
+  width: 55%;
+  margin: 0 0 20px 10px;
+  display: inline-block;
+}
+
+.right input {
+  width: 20%;
+  margin: 20px 0;
+}
+
+.right span {
+  color: rgb(35, 120, 248);
+  font-size: 25px;
+}
+
+.clear {
+  clear: both;
+}
+
+.subtial {
+  width: 84%;
+  border: 1px solid black;
+  border-radius: 5px;
+  box-shadow: 2px 3px 6px #555;
+  padding: 20px;
+  margin: 20px 0;
+  margin-left: 110px;
+}
+
+.subtial span {
+  color: blue;
+  font-size: 21px;
+}
+
+.subtial button {
+  padding: 10px;
+  background-color: rgb(35, 120, 248);
+  border: solid rgb(35, 120, 248);
+  border-radius: 5px;
+}
+
+.subtial button:hover {
+  background-color: rgb(53, 53, 243);
+  cursor: pointer;
+  border: solid rgb(53, 53, 243);
+}
+
+footer {
+  width: 100%;
+  background-color: rgb(85, 80, 80);
+  height: 90px;
+  margin-top: 50px;
+  right: 150px;
+
+}
+
+.footer a {
+  text-decoration: none;
+  left: 550px;
+  bottom: 70px;
+  position: relative;
+  font-size: 19px;
+  color: white;
+  margin: 12px;
+  font-family: sans-serif;
+}
+
+.footer a:hover {
+  color: rgb(35, 120, 248);
+}
+
+.last p {
+  display: inline-block;
+  margin: 2px 250px;
+  font-size: 20px;
+  font-family: sans-serif;
+  color: rgb(148, 142, 142);
+  bottom: 15px;
+  position: relative;
+}
+
+.last span {
+  color: rgb(65, 128, 221);
+  margin: 10px;
+
+}
+
+.last img {
+  display: inline-block;
+  bottom: 10px;
+  position: relative;
+}
+
+.link {
+  right: 100px;
+  position: relative;
+}
